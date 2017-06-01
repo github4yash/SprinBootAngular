@@ -9,3 +9,5 @@ After installing Maven and doing `mvn clean package`, go to target folder and ty
 ```
 java -jar SpringBootCRUDApplicationExample-1.0.0.jar --spring.profiles.active=local
 ```
+
+Go to `http://localhost:8080/SpringBootCRUDApp/` to see the app in action.
