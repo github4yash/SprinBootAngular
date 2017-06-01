@@ -1,4 +1,4 @@
-# SprinBootAngular
+# SpringBootAngular
 Starter project with Spring Boot and Angular
 
 This is based on: http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
