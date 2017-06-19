@@ -19,3 +19,7 @@ If however you are interested in running Angular2 with Spring Boot then you shou
 * http://chariotsolutions.com/blog/post/angular-2-spring-boot-jwt-cors_part2/
 
 Remeber, http://start.spring.io/ is your buddy.
+
+Check out:
+* JHipster https://jhipster.github.io/ (see the sample generated at https://github.com/jhipster/jhipster-sample-app-ng2 and also see Matt's video https://youtu.be/XRREt1KB4Y8)
+
